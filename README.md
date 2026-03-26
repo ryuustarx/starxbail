@@ -1,6 +1,6 @@
 # 🚀 RyuuStar - Baileys
 <p align="center">
-  <img src="https://files.catbox.moe/bwhzxb.jpeg" alt="RyuuBail Banner" width="600"/>
+  <img src="https://i.ibb.co.com/0RF3sKHL/file-00000000ef34720882acf928f49044eb.png" alt="RyuuBail Banner" width="600"/>
 </p>
 
 ## ✨ Deskripsi
